@@ -1,0 +1,189 @@
+
+font-family: 'Pangolin', cursive;
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+.nav{
+  padding-top:  66px;
+  padding-left:  138px;
+
+}
+.bl{
+  color: black;
+}
+.wr, .por, .con{
+  margin-left: 20px;
+  color: black;
+}
+.name{
+
+  font-size: 50px;
+  margin-right: 572px;
+  margin-left: 573px;
+  font-weight: bolder;
+}
+p{
+  position: absolute;
+margin-left: -150px;
+
+
+}
+.img{
+  height: 717px;
+  width: 719px;
+  background-image: url(штука.png);
+  margin-top: 150px;
+  position: absolute;
+  margin-left: -271px;
+}
+.mar{
+  -webkit-transform: rotate(-90deg); //Chrome, Safari
+-moz-transform: rotate(-90deg); //Firefox
+-o-transform: rotate(-90deg); //Opera
+-ms-transform: rotate(-90deg); //IE
+transform: rotate(-90deg); //браузеры без префексов
+position: absolute;
+margin-left:  -780px;
+margin-top: -420px;
+color:grey;
+}
+h1{
+  position: absolute;
+  margin-top: 1140px;
+  font-size: 60px;
+}
+
+.text{
+  position: relative;
+  margin-top: 100px;
+  font-size: 30px;
+padding-left: -220px;
+margin-left: 20px;
+  width: 725px;
+  height: 260px;
+  font-weight: normal;
+  text-align: justify;
+
+}
+.con1{
+  font-weight: normal;
+  text-align: center;
+  border-bottom: 2px solid red;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 20px;
+
+
+}
+.are{
+  padding-top: 156px;
+  margin-left: 20px;
+  text-align: justify;
+
+}
+.feb{
+  position: absolute;
+  margin-left: -111px;
+  margin-top: 290px;
+  font-size: 30px;
+  color: grey;
+  -webkit-transform: rotate(-90deg); //Chrome, Safari
+-moz-transform: rotate(-90deg); //Firefox
+-o-transform: rotate(-90deg); //Opera
+-ms-transform: rotate(-90deg); //IE
+transform: rotate(-90deg); //браузеры без префексов
+
+
+}
+.El{
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 40px;
+  font-weight: normal;
+  font-size: 30px;
+
+}
+.line{
+  position: absolute;
+  margin-top: 437px;
+  font-weight: normal;
+  height: 2px;
+  width: 20px;
+  color:red;
+  margin-left: -20px;
+}
+.tanx{
+  position: absolute;
+  margin-top: -10px;
+  color: red;
+}
+.velo{
+  position: absolute;
+  margin-top: 660px;
+  padding-bottom: 66px;
+}
+
+.gall{
+  position: absolute;
+  padding-top: 20px;
+  margin-top:1180px;
+  text-align: center;
+  margin-left: 0px;
+  padding-bottom: 40px;
+
+}
+.gp{
+  margin-top: 1200px;
+  padding-top: 90px;
+  padding-left: 160px;
+  font-weight: normal;
+  text-align: justify;
+  font-size: 30px;
+
+}
+.con2{
+  position: absolute;
+  margin-top: 1440px;
+  margin-left: 20px;
+    border-bottom: 2px solid red;
+    font-weight: normal;
+    font-size: 30px;
+
+
+}
+.reg{
+  position: absolute;
+  margin-top: 1678px;
+}
+.reg1{
+  font-weight: normal;
+  margin-top: 1780px;
+  text-align: justify;
+  font-size: 30px;
+  padding-left: 160px;
+}
+.dec{
+  position: absolute;
+  margin-left: -80px;
+  margin-top: 1900px;
+  font-size: 20px;
+  color: grey;
+  -webkit-transform: rotate(-90deg); //Chrome, Safari
+-moz-transform: rotate(-90deg); //Firefox
+-o-transform: rotate(-90deg); //Opera
+-ms-transform: rotate(-90deg); //IE
+transform: rotate(-90deg); //браузеры без префексов
+}
+.con3{
+  position: absolute;
+  margin-top: 2040px;
+  margin-left: 20px;
+    border-bottom: 2px solid red;
+    font-weight: normal;
+    font-size: 30px;
+
+}
